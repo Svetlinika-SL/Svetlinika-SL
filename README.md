@@ -2,11 +2,11 @@
 ### Beginner Data Analyst
 
 ## About me:
-👀 I’m interested in Data Analytics and frontend web-development.
-🌱 I’m currently learning Phyton and SQL.
-💪 Мне нравится писать код
-🥅 Я постоянно учусь чему - то новому
-📫  How to reach me: svetlinikakrd@yandex.ru
+ - 👀 I’m interested in Data Analytics and frontend web-development.
+ - 🌱 I’m currently learning Phyton and SQL.
+ - 💪 Мне нравится писать код
+ - 🥅 Я постоянно учусь чему - то новому
+ - 📫  How to reach me: svetlinikakrd@yandex.ru
 
 
 ### :hammer_and_wrench: Languages and Tools :
