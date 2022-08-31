@@ -22,4 +22,4 @@
 </div>
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svetlinika-SL&exclude_repo=github-readme-stats,Svetlinika-SL.io)](https://github.com/Svetlinika-SL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svetliniks-SL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
