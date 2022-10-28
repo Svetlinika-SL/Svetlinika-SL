@@ -4,8 +4,8 @@
 ## About me:
  - 👀 I’m interested in Data Analytics and frontend web-development.
  - 🌱 I’m currently learning Phyton and SQL.
- - 💪 Мне нравится писать код
- - 🥅 Я постоянно учусь чему - то новому
+ - 💪 I like to write code.
+ - 🥅 I am constantly learning something new.
  - 📫  How to reach me: svetlinikakrd@yandex.ru
 
 
