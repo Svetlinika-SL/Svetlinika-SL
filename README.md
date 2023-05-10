@@ -6,7 +6,7 @@
  - 🌱 I’m currently learning Phyton and SQL.
  - 💪 I like to write code.
  - 🥅 I am constantly learning something new.
- - 📫  How to reach me: svetlinikakrd@yandex.ru
+ - 📫  How to reach me: lsnsochi@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
